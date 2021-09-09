@@ -2,7 +2,7 @@
 
 - 🌱 Estudando Análise e Manipulação de dados com python.
 - 🤔 Procuro por pessoas que amem dados!
-- 📫 Contato: fabricios.ferreira.dio@gmail.com
+- 📫 Contato: fabricio.ferreira.dio@gmail.com
 - 😄 Pronomes: ele/dele
 
 <div>
