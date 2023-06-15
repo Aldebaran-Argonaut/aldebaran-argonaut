@@ -1,9 +1,6 @@
-### Olá, Me chamo Fabricio Ferreira 👋
+### Hello, My name is Fabricio Ferreira 👋
 
-- 🌱 Estudando Análise e Manipulação de dados com python.
-- 🤔 Procuro por pessoas que amem dados!
-- 📫 Contato: fabricio.ferreira.dio@gmail.com
-- 😄 Pronomes: ele/dele
+Passionate Data Engineer with expertise in Python data processing, SQL database manipulation, and Power BI for data visualization. Developed a strong foundation in data engineering during my time as a Data Science Intern at IBM Brazil. Skilled in efficiently manipulating and transforming data, extracting insights, and optimizing pipelines. Seeking data-driven opportunities to apply my skills and contribute to organizational success.
 
 <div>
   <a href="https://github.com/Aldebaran-Argonaut">
